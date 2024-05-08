@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [a food detection app](https://github.com/RouvErn/PlatePerfect)
 
-- 🌱 I’m currently learning **advanced python,**
+- 🌱 I’m currently learning **advanced python**
 
 - 📫 How to reach me **matt@saffan.com**
 
-- ⚡ Fun fact **I am a huge gamer.**
+- ⚡ Fun fact **I am a gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
