@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **matt@saffan.com**
 
-- ⚡ Fun fact **I am a gamer.**
+- ⚡ Fun fact **I am a lover of all animals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
